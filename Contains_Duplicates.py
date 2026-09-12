@@ -4,4 +4,4 @@ class Solution(object):
 
 solution = Solution()
 result = solution.containsDuplicate([1, 2, 3, 1])        
-print(result)
+print(result)   
